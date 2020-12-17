@@ -1,0 +1,9 @@
+#cheeseContainer{
+  max-width: 350px;
+  margin: auto;
+  display: grid;
+  justify-items: center;
+}
+.cheese__name{
+  font-size: 2em;
+}
