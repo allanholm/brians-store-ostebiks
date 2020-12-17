@@ -1,4 +1,4 @@
-@import "./detailedview.css";
+@import "./detailedView.css";
 @import "./listview.css";
 body {
   max-width: 960px;
