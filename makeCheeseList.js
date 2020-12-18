@@ -1,7 +1,6 @@
 const cheeseList = document.querySelector(".cheeses__list");
 
 function showAllCheeses(data) {
-  console.log(data);
   cheeseList.innerHTML = "";
 
   data.results.forEach(cheese => {
